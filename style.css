@@ -667,15 +667,14 @@ nav{
         justify-content: space-around;
     }
     #about_us{
-        margin-top: 680px;
+        margin-top: 700px;
     }
     #about_img1{
         width: 90%;
         max-width: 250px;
         height: 54vh;
-        margin-top: -110%;
+        margin-top: -125%;
         margin-left: 14%;
-        display: none;
     }
     #about_img2{
         width: 75%;

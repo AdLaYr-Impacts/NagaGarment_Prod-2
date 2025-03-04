@@ -675,6 +675,7 @@ nav{
         height: 54vh;
         margin-top: -110%;
         margin-left: 14%;
+        display: none;
     }
     #about_img2{
         width: 75%;
